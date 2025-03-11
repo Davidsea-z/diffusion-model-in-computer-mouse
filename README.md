@@ -5,20 +5,21 @@
 This project explores the application of diffusion models in computer mouse design generation. Using advanced generative AI techniques, we aim to create innovative and ergonomic computer mouse designs. The model generates various mouse designs based on different parameters and constraints.
 
 Here's an example of a generated mouse design:
-![Generated Mouse 0](generated_images/generated_0.png)
-![Generated Mouse 1](generated_images/generated_1.png)
-![Generated Mouse 2](generated_images/generated_2.png)
-![Generated Mouse 3](generated_images/generated_3.png)
-![Generated Mouse 4](generated_images/generated_4.png)
-![Generated Mouse 5](generated_images/generated_5.png)
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="generated_images/generated_0.png" alt="Generated Mouse 0" width="30%" style="margin: 5px;">
+  <img src="generated_images/generated_1.png" alt="Generated Mouse 1" width="30%" style="margin: 5px;">
+  <img src="generated_images/generated_2.png" alt="Generated Mouse 2" width="30%" style="margin: 5px;">
+  <img src="generated_images/generated_3.png" alt="Generated Mouse 3" width="30%" style="margin: 5px;">
+  <img src="generated_images/generated_4.png" alt="Generated Mouse 4" width="30%" style="margin: 5px;">
+  <img src="generated_images/generated_5.png" alt="Generated Mouse 5" width="30%" style="margin: 5px;">
+</div>
 
 ## License
 
 MIT License
 
-{{ edit_1 }}
 2023 Davidsea-z
-{{ edit_2 }}
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
