@@ -16,7 +16,9 @@ Here's an example of a generated mouse design:
 
 MIT License
 
-Copyright (c) [year] [fullname]
+{{ edit_1 }}
+2023 Davidsea-z
+{{ edit_2 }}
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
