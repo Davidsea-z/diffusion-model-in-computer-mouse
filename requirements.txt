@@ -1,0 +1,9 @@
+diffusers
+accelerate
+torch
+datasets
+Pillow
+requests
+matplotlib
+psutil
+huggingface-hub
